@@ -2,7 +2,8 @@
 
 This repository contains an application for lip reading based on LipNet, an advanced machine learning model originally designed for lip movement recognition. The project was inspired by Nicholas Renotte, an AI expert at IBM, and adapted to create a user-friendly full-stack app using Streamlit.
 
-<img width="1229" alt="streamlit" src="https://github.com/TobiasMaissen/LipNet_TensorFlow/assets/38552872/63eafe0b-3544-4802-a6be-cfb7322f4e25">
+<img width="640" alt="ML_Streamlit_LiptNet" src="https://github.com/TobiasMaissen/LipNet_Tensorflow/assets/38552872/e1c5c08a-5ebc-4d36-835f-c16ae3ac1c3c">
+
 
 
 ## What is LipNet?
